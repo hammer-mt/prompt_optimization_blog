@@ -1,0 +1,17 @@
+There are three main ways to set your pricing strategy: cost, market, and value. Value-based pricing is where you base your price based on the estimated value you’re bringing to the business, rather than what competitors are charging, or what it costs you to deliver the service. The main benefit being that you can potentially charge a lot more this way.
+
+In order to execute this pricing strategy, you need to research how customers value your product, what features are most important, and how you might rethink your positioning to move up the value chain. For example, if your software saves customers $10k per month, you can charge say 1/10th of that and the customer will still be happy, even if your software only costs you pennies to run.
+
+Technical founders will often just take the cost and add 10%, which in software severely underprices your offering. Pricing based on market value, i.e. undercutting your main competitor by 10%, can also be a problem, because there’s nothing stopping them from cutting their prices too, starting a bidding war. Ideally you differentiate your product in some way in order to serve some segment of the market that won’t treat you like a commodity. 
+
+Here’s how to implement a value-based pricing strategy:
+
+Research: You need a deep understanding of the target market, or for large deals an intimate relationship with multiple stakeholders in the company.
+Estimate: Quantify the value the product offers in terms of time saved, cost reductions, or avoiding risk. No need to be super accurate, just within a reasonable range.
+Capture: Set the price as some fraction of the value created. For example, if you generate $10k in value, nobody will blink twice at paying you $1k.
+Communicate: How much they’ll be willing to pay will depend entirely on your ability to communicate the business case, and defend your price against challenges.
+Review: Your market (and product) are in constant flux, so you need to make regular adjustments. If you aren’t losing 1/3rd of your deals on price, you’re undercharging.
+
+Value-based pricing has the potential to greatly increase your profits, which is why all the business gurus recommend it. However, it’s a lot more challenging and time-consuming to implement and can be disastrous when you get it wrong. It’s hard to know how much value you can deliver, so you could be left dealing with the fallout of accidentally overcharging, or cash flow issues from unprofitable customers you’re over-servicing.
+
+In sectors where the perceived value is significantly higher than the actual cost, or where a company holds a monopoly, value-based pricing can work effectively. However, in competitive markets where your brand is not well-known or where others can easily replicate your services, this pricing strategy can be more challenging to implement. 

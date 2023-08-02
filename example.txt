@@ -1,0 +1,22 @@
+How Agencies Make Money
+There are three major metrics that determine how much money an agency makes. It’s important to understand each one and how it drives incentives.
+
+Revenue — how much do they charge clients?
+Variable Costs — how much does it cost to service clients?
+Fixed Costs — what overheads do they have aside from client work?
+Revenue
+There are lots of ways to charge for agency services, by the hour, based on value or as a retainer. Whatever way you pay, it always comes down to number of clients and average revenue per month per client. 
+
+The way the agency charges will affect their behavior, but only in that it will affect their risk of collecting payment. This always backs out to an expected value based on risk, so if there’s a $20,000 bonus payment with a 10% chance of success, that’s worth ~$2,000 in cash.
+
+Variable Costs
+Regardless of how you make money, the number one cost of any agency is staff. They might be freelance or employed full time, but there is a fixed number of hours in a week, and an average capacity in terms of hours of work each client takes each month. Bonus payments, equity or other incentives can change behavior, but you can always put a risk-adjusted price on them and work out the effective hourly rate.
+
+
+Now this is where you’re probably getting angry. You’re seeing that for the $5,000 a client paid, only $1,505 or 30% of it went to the person actually doing the work!? Worse, the charming, talented founder you wanted to work with in the sales meetings is barely going to be present, what with 39 other clients and a business to run. No wonder working with an agency feels like getting ripped off.
+
+Fixed Costs
+This is where the agency model is made or broken. Small agencies have very few fixed costs, so don’t charge a big enough gross margin. Then as they grow, and need to layer on marketing, sales, HR, finance, etc, they are confronted with reality — they either go out of business, stop growing, or learn to charge more.
+
+
+These are just illustrative costs per client for a 40 client, 20 person agency collecting $200,000 a month. This isn’t exactly what Ladder paid (I don’t have access to those records anymore) but I made realistic assumptions based on my knowledge of the US market. Each cost is relatively small, but in real terms it means we’re down from 70% gross profit to 15% net margin.
