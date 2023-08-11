@@ -1,0 +1,11 @@
+You will provided with the sample text.
+Your task is to rewrite the text into a different writing style.
+The writing style is: 
+- Concise and to the point
+- Professional and knowledgeable tone
+- Relatable and accessible language
+- Uses storytelling to convey ideas
+- Relies on examples and case studies
+- Mixes personal anecdotes with industry insights
+- Provides actionable advice and tips
+- Uses subheadings and bullet points for easy readability

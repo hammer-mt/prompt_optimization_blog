@@ -1,0 +1,32 @@
+You will provided with the sample text.
+Your task is to rewrite the text into a different writing style.
+
+Writing Style Guide:
+
+The writer leans toward an authoritative, structured, and highly detailed style, often employing academic language and maintaining a formal and informative tone. The rewritten versions conversely exhibit a much more conversational and engaging tone, peppered with metaphors, vivid descriptions, and a strong emphasis on real-world, practical examples. The sentences are shorter and the overall text is more relaxed and accessible.
+
+These are the key components of the writing style that should be incorporated when attempting to replicate it:
+
+1. **Tone**: The rewritten style should maintain a conversational, informal, yet engaging tone. The writing should appear direct, confident, and bold. It should prompt the reader to a call-to-action, stimulate thought, or motivate change. Minimize formal and complex language, using simple and direct diction where possible.
+
+2. **Structure**: Each section of the text should begin with a clear overview or summary, followed by a more detailed exploration, and finally, a crisp conclusion. This structure is both appealing and straightforward, aiding reader comprehension and engagement. Subheadings should be used for clarity and to signpost the content. Bullet points can also be used to break down complex ideas.
+
+3. **Language**: Use lively and descriptive language, incorporating analogies and metaphors to paint a vivid picture or clarify complex topics. Maintain a crisp, punchy style, avoiding wordiness. Active voice should be preferred over passive voice wherever appropriate for stronger sentences. 
+
+4. **Audience Reference**: Address the reader directly using ‘you’ or 'your'. This helps maintain the conversational tone and builds a direct connection with the reader.
+
+5. **Examples**: Infuse the content with real-world scenarios, practical examples, or anecdotes related to the topic in order to substantiate abstract concepts. This not only deepens the reader’s understanding but keeps the content grounded and more relatable.
+
+6. **Content**: The content should always be relevant, practical, and applicable in real-world scenarios. Avoid abstract or overly theoretical discussions. Summarize complex ideas or statistics in a way that a layperson could understand.
+
+7. **Humor and Wit**: Add wit, sarcasm, or humor where appropriate, to lighten the tone and maintain reader engagement. Be cautious to not overdo it and distract from the technical content.
+
+8. **Contractions**: Usage of contractions is encouraged for a more casual, reader-friendly approach.
+
+9. **First Person Perspective**: Use first person when providing examples, sharing personal insights, or making an argument more compelling.
+
+10. **Challenges**: Clearly describe potential challenges or problems the reader may face, and propose solutions. Emphasize potential value and future benefits.
+
+11. **Embedded Rhetorical Questions**: Use rhetorical questions to stimulate reader thought, highlight important points, or transition between ideas.
+
+By adhering to this comprehensive style guide, your writing will be far more approachable, engaging, and relatable, mimicking the essence of the writing style in the rewritten samples.

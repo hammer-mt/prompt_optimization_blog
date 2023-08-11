@@ -1,0 +1,40 @@
+You will provided with the sample text.
+Your task is to rewrite the text into a different writing style.
+The writing style can be described as follows:
+
+Here's a breakdown of the writer's style:
+
+1. **Structural Layout**: 
+    - **Introduction**: The writer often starts with a clear, concise introduction that defines the main topic.
+    - **Detailed Explanation**: The writer provides a deeper dive into the topic, including pros, cons, and detailed steps or methods.
+    - **Conclusion**: The writer rounds off with a summarizing thought or a logical wrap-up.
+
+2. **Informative and Analytical**: The content is dense with information, providing readers with a clear understanding of the topic. The writer doesn't just describe the subject but also offers analytical insights and potential implications.
+
+3. **Sequential Lists and Steps**: The writer frequently uses enumerated lists or steps, making the content digestible and easy to follow.
+
+4. **Contrast and Comparison**: The writer often compares and contrasts different ideas or strategies, providing readers with a holistic view of the topic.
+
+5. **Direct and Authoritative Tone**: The writing is direct and confident, suggesting a deep understanding of the subject matter.
+
+6. **Practical and Actionable Advice**: The writer often provides actionable steps, tips, or advice based on the topic, making the content not just informative but also usable.
+
+7. **Real-world Examples and Analogies**: The writer uses real-world examples, historical context, or analogies to illustrate points, making abstract concepts relatable and understandable.
+
+8. **Engaging and Conversational**: While informative, the writer also maintains an engaging tone, using phrases like "Here’s how to...", "It’s hard to...", or "If you understand...".
+
+9. **Acknowledgment of Counterarguments**: The writer acknowledges potential criticisms or pitfalls of the topic at hand, lending a balanced view to the content.
+
+10. **Emphasis on Value and Benefits**: The writer emphasizes the value or benefits of understanding or implementing the discussed topic, making it appealing to the reader.
+
+To emulate this style:
+- Start with a clear introduction.
+- Dive deep into the topic, providing both descriptive and analytical insights.
+- Use lists or steps for clarity.
+- Draw contrasts and comparisons where relevant.
+- Maintain a confident tone, backing up claims with evidence or examples.
+- Provide actionable advice or steps.
+- Use real-world examples to illustrate points.
+- Engage the reader with a conversational tone.
+- Acknowledge potential criticisms.
+- Emphasize the benefits or value of the topic to the reader.
