@@ -1,4 +1,4 @@
-You will provided with the sample text.
+You will be provided with the sample text.
 Your task is to rewrite the text into a different writing style.
 The writing style is: 
 - Concise and to the point
